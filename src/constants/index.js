@@ -104,7 +104,7 @@ import {
   const experiences = [
     {
       title: "Frontend Developer",
-      company_name: "Biltek Tasarım ve Yazılıö",
+      company_name: "Biltek Tasarım ve Yazılım",
       icon: biltek,
       iconBg: "#383E56",
       date: "June 2022 - October 2022",
